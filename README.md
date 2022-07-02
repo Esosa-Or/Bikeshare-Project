@@ -1,0 +1,2 @@
+# Bikeshare-Project
+A project making use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. In this project, i answer interesting questions about the data by computing descriptive statistics as well as developing a script that takes in raw input to create an interactive experience in the terminal to present those statistics.

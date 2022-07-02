@@ -17,7 +17,7 @@ Upon receiving all user input, the script prints summary descriptive statistics 
 
 ### Requirements
 Language: Python 3.6 or above
-Libraries: pandas, numpy, time
+Libraries: pandas, numpy, time.
 
 
 Built with: Python 3.7
